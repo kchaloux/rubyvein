@@ -1,0 +1,1 @@
+def simple; puts "Simple Ruby Script" end
